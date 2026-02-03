@@ -173,8 +173,8 @@ rules = [
   { mime = "application/{pdf,doc,rtf,odt,docx,xlsx,pptx}", fg = "#A3BE8C" },
 
   # Fallback
-  { url = "*", fg = "#E5E9F0" },
   { url = "*/", fg = "#81A1C1" },
+  { url = "*", fg = "#E5E9F0" },
 ]
 
 # : }}}
