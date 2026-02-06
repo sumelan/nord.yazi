@@ -25,14 +25,13 @@ return {
 			selected = { icon = "󰻭", fg = "#EBCB8B" },
 			copied = { icon = "", fg = "#A3BE8C" },
 			cut = { icon = "", fg = "#BF616A" },
+
 			files = { icon = "", fg = "#5E81AC" },
 			filtereds = { icon = "", fg = "#B48EAD" },
 
 			total = { icon = "󰮍", fg = "#EBCB8B" },
-			succ = { icon = "", fg = "#A3BE8C" },
-			fail = { icon = "", fg = "#BF616A" },
-			found = { icon = "󰮕", fg = "#5E81AC" },
-			processed = { icon = "󰐍", fg = "#A3BE8C" },
+			success = { icon = "", fg = "#A3BE8C" },
+			failed = { icon = "", fg = "#BF616A" },
 		}
 	end,
 }
